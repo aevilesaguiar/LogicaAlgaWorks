@@ -3,7 +3,7 @@
 - Introdução[ok]
 - Começando[ok]
 - Variáveis e constantes[ok]
-- Operadores
+- Operadores[ok]
 - Estruturas de decisão
 - Iteração
 - Vetores
